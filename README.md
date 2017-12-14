@@ -1,2 +1,0 @@
-# standupDesMoines
-Web Application
