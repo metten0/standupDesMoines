@@ -1,0 +1,8 @@
+{
+  "name": "standupDesMoines-api",
+  "version": "1.0.0",
+  "description": "standupDesMoines-api",
+  "main": "index.js",
+  "author": "metten",
+  "license": "MIT"
+}
